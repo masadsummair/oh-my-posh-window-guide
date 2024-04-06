@@ -3,10 +3,9 @@
  - install [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
  - install Nerd Fonts: [nerd-fonts](https://github.com/ryanoasis/nerd-fonts/) (to get icons ,dont worries you can still use your favorite font if they are available in nerd-fonts)
 	 - goto release :
-![img-1](https://github.com/masadsummair/oh-my-posh-window-guide/assets/62187782/10f889a0-5d1b-4464-95fa-511f1216edad)
+![img-1](https://github.com/masadsummair/oh-my-posh-window-guide/assets/62187782/e8de9fb4-bf59-46b8-a03c-dba2046b6128)
 	 - choose your favorite font and install its zip (choose from latest release):
-![img-2](https://github.com/masadsummair/oh-my-posh-window-guide/assets/62187782/41498b6c-5f29-46b2-829d-eb9c3f0c4fcd)
-		
+![img-2](https://github.com/masadsummair/oh-my-posh-window-guide/assets/62187782/298887c0-3bf6-44a8-a8f4-add2697b208b)
  - then extract it and install it
  - install [oh my posh](https://ohmyposh.dev/docs/installation/windows)
 ## Installation
